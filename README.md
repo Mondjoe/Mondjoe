@@ -17,29 +17,3 @@ cd charm-capsule
 ![OKX Verified](https://img.shields.io/badge/OKX-Verified-success?style=for-the-badge&logo=okx&logoColor=white)
 ![Capsule Sovereign](https://img.shields.io/badge/Capsule-Sovereign-success?style=for-the-badge&logo=github&logoColor=white)
 ---
-
-## 🔄 Capsule Cycle (Contributor Workflow)
-
-+-------------------+
-|   Clone Capsule   |
-+-------------------+
-          |
-          v
-+-------------------+
-|   Health Check    |
-+-------------------+
-          |
-          v
-+-------------------+
-|     Commit        |
-+-------------------+
-          |
-          v
-+-------------------+
-|      Push         |
-+-------------------+
-          |
-          v
-+-------------------+
-|     Mirror        |
-+-------------------+
