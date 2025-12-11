@@ -51,3 +51,12 @@ Maintain absolute sovereignty across all digital layers.
 ![Raydium](https://img.shields.io/badge/Raydium-Liquidity-green)
 ![GitHub](https://img.shields.io/badge/GitHub-Anchor-black)
 ![OKX](https://img.shields.io/badge/OKX-UID%20658410544479050550-grey)
+<details>
+<summary>Capsule Map</summary>
+
+GitHub → Contributor Proof  
+On‑Chain Pools → Liquidity Proof  
+Listings → Visibility Proof  
+Legacy Anchors → Identity Proof  
+
+</details>
