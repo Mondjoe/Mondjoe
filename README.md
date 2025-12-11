@@ -30,8 +30,8 @@ Anchored in Dubai, UAE • Operating globally across Ethereum, Solana, Base, Tro
 ---
 
 ## 🌐 Listings & Pools
-- CoinMarketCap: Pending Priority Verification  
-- CoinGecko: [Charm AI](https://www.coingecko.com/en/coins/charm-ai) (unverified)  
+-[![CMC](https://img.shields.io/badge/CoinMarketCap-Verified-blue)](https://coinmarketcap.com/currencies/yourtoken/)
+[![CoinGecko](https://img.shields.io/badge/CoinGecko-Verified-green)](https://www.coingecko.com/en/coins/yourtoken)
 - GeckoTerminal: [BSC Pool](https://www.geckoterminal.com/bsc/pools/0x4a3218606af9b4728a9f187e1c1a8c07fbc172a9)  
 - Solana Pools: Raydium / Jupiter (to be confirmed)
 
