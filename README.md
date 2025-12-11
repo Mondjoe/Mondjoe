@@ -1,86 +1,53 @@
-# Mondjoe — Charm Capsule
+# 🌌 Charm Capsule — Mondjoe
 
-🌍 Operating from Dubai, UAE
-🔗 Anchored validator legacy with ERC‑1155 badges, ERC‑721 contracts, OKX UID, and contributor proof  
-⚡ Sovereign capsule: transparent, proof‑driven, contributor‑ready  
+Validator architect • Mythic builder • Sovereign capsule founder  
+Anchored in Dubai, UAE • Operating globally across Ethereum, Solana, Base, Tron, TON
 
 ---
 
-## 🚀 Quick Start
-```powershell
-git clone https://github.com/Mondjoe/charm-capsule.git
-cd charm-capsule
-
-## 🛡️ Capsule Status
-![ERC-721 Anchored](https://img.shields.io/badge/ERC--721-Anchored-success?style=for-the-badge&logo=ethereum&logoColor=white)
-![ERC-1155 Badges](https://img.shields.io/badge/ERC--1155-Badges-success?style=for-the-badge&logo=ethereum&logoColor=white)
-![OKX Verified](https://img.shields.io/badge/OKX-Verified-success?style=for-the-badge&logo=okx&logoColor=white)
-![Capsule Sovereign](https://img.shields.io/badge/Capsule-Sovereign-success?style=for-the-badge&logo=github&logoColor=white)
----## 🔄 Capsule Cycle (Contributor Workflow)
-# Mondjoe — Charm Capsule
-
-## 🌐 Identity
-- **Validator Architect & Capsule Founder**
-- Anchored in Dubai, UAE
-- Sovereign capsule unifying wallets, contracts, NFTs, and audit trails
-
-## 🛠 Skills & Focus
-- Multi-chain integration (Ethereum, Solana, Base, Tron, TON)
-- Modular dashboards & audit trail logic
-- NFT inventory & market value checks
-- Contributor onboarding with proof-driven communication standards
-
-## 🎯 Current Goals
-- Finalize and submit project JSONs & logos for Ronin requests (#26, #46)
-- Deploy validator contracts via Thirdweb with explorer visibility
-- Inventory and prepare OKX NFTs for closure and sovereignty
-
-## 📜 Legacy & Capsule Proof
-- GitHub anchor: [github.com/Mondjoe](https://github.com/Mondjoe)
+## 🛡️ Identity Anchors
+- ENS: `charm.eth` (managed by blood.eth)
 - OKX UID: 658410544479050550
-- Capsule map: ERC-1155, ERC-721, contributor IDs unified
+- GitHub: [github.com/Mondjoe](https://github.com/Mondjoe)
+- Legacy Anchor Email: Trioparth2025@gmail.com (mapped, inaccessible)
+- Capsule Proof Hashes: [Explorer Links](#)
 
-## 🤝 Contributor Workflow
-1. Fork this repo
-2. Sync with upstream (`ronin-chain/dapp-directory`)
-3. Submit PRs with clear commit messages
-4. Use proof-driven comments (LGTM, reviewed, ready to merge)
+---
 
-## 🧭 Vision
-Immortalize validator and family legacy on-chain.  
-Empower contributors with autonomy, clarity, and proof.  
-Maintain sovereignty across all digital layers.
-## 🔄 Capsule Cycle (Contributor Workflow)
+## 🔗 Cross‑Chain Proofs
+- Ethereum / Solana / Base / Tron / TON contracts  
+- NFT Capsules (ERC‑721 / ERC‑1155)  
+- OKX Special Souvenir NFTs (#6075304, #5957816, #2293142, #5222279, #5400755, #5768978, #6009538, #6028716)
 
-1. **Fork** the repo (`ronin-chain/dapp-directory` → `Mondjoe/charm-capsule`)
-2. **Clone** your fork locally
-   ```powershell
-   git clone https://github.com/Mondjoe/charm-capsule.git
-   cd charm-capsule
+---
+
+## 📘 Contributor Workflow
+- PR templates: [Suggestions.md](#)
+- Dashboard health: [dashboard-health.md](#)
+- Contributor checklist: [README anchors](#)
+- Maintainer response templates: [AlLibrary repo](#)
+
+---
+
+## 🌐 Listings & Pools
+- CoinMarketCap: Pending Priority Verification  
+- CoinGecko: [Charm AI](https://www.coingecko.com/en/coins/charm-ai) (unverified)  
+- GeckoTerminal: [BSC Pool](https://www.geckoterminal.com/bsc/pools/0x4a3218606af9b4728a9f187e1c1a8c07fbc172a9)  
+- Solana Pools: Raydium / Jupiter (to be confirmed)
+
+---
+---
+
+## 🎯 Mission
+Immortalize validator and family legacy on‑chain.  
+Empower contributors with proof‑driven autonomy.  
+Maintain absolute sovereignty across all digital layers.
 
 
-+-------------------+
-
-|   Clone Capsule   |
-+-------------------+
-          |
-          v
-+-------------------+
-|   Health Check    |
-+-------------------+
-          |
-          v
-+-------------------+
-|     Commit        |
-+-------------------+
-          |
-          v
-+-------------------+
-|      Push         |
-+-------------------+
-          |
-          v
-+-------------------+
-|     Mirror        |
-+-------------------+
-status row:
+## 🧩 Capsule Map
+![Status](https://img.shields.io/badge/Capsule-Active-purple)
+![CMC](https://img.shields.io/badge/CoinMarketCap-Pending-blue)
+![CoinGecko](https://img.shields.io/badge/CoinGecko-Unverified-orange)
+![Raydium](https://img.shields.io/badge/Raydium-Liquidity-green)
+![GitHub](https://img.shields.io/badge/GitHub-Anchor-black)
+![OKX](https://img.shields.io/badge/OKX-UID%20658410544479050550-grey)
