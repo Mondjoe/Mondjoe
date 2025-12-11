@@ -46,7 +46,6 @@ Maintain absolute sovereignty across all digital layers.
 
 ## 🧩 Capsule Map
 ![Status](https://img.shields.io/badge/Capsule-Active-purple)
-![CMC](https://img.shields.io/badge/CoinMarketCap-Pending-blue)
 ![CoinGecko](https://img.shields.io/badge/CoinGecko-Unverified-orange)
 ![Raydium](https://img.shields.io/badge/Raydium-Liquidity-green)
 ![GitHub](https://img.shields.io/badge/GitHub-Anchor-black)
@@ -60,3 +59,9 @@ Listings → Visibility Proof
 Legacy Anchors → Identity Proof  
 
 </details>
+## 📧 Email Anchors
+
+[![Primary](https://img.shields.io/badge/Email-Primary%3A%20mondjoe007%40yahoo.com-darkblue)](#)
+[![Secondary](https://img.shields.io/badge/Email-Secondary%3A%20kyawzayya4788%40gmail.com-green)](#)
+[![Contributor](https://img.shields.io/badge/Email-Contributor%3A%20charmjoe71%40gmail.com-orange)](#)
+[![Legacy](https://img.shields.io/badge/Email-Legacy%3A%20Trioparth2025%40gmail.com-grey)](#)
