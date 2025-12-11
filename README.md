@@ -9,7 +9,7 @@ Anchored in Dubai, UAE • Operating globally across Ethereum, Solana, Base, Tro
 - ENS: `charm.eth` (managed by blood.eth)
 - OKX UID: 658410544479050550
 - GitHub: [github.com/Mondjoe](https://github.com/Mondjoe)
-- Legacy Anchor Email: Trioparth2025@gmail.com (mapped, inaccessible)
+- Legacy Anchor Email: Triopath2025@gmail.com (mapped, inaccessible)
 - Capsule Proof Hashes: [Explorer Links](#)
 
 ---
