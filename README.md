@@ -184,5 +184,13 @@ Every contributor follows the same badge system and workflows, ensuring clarity,
 ✅ Verified   → Explorer / exchange proof confirmed
 ⏳ Pending    → Awaiting explorer confirmation, liquidity check, or proposal close
 ❌ Invalid    → Spam / rejected anchor
+## 📊 Reputation Badges — Direct IPFS Links
+
+| Role        | ID | Badge JSON Link                                                                 | Status Example |
+|-------------|----|----------------------------------------------------------------------------------|----------------|
+| 🕵️ Auditor   | 1  | [Auditor JSON](https://ipfs.io/ipfs/bafkreia7qhvpw6gi57wgx5mq4prpf4gcckp5447dyote3qx6loabx75yv4/1.json) | ✅ Verified    |
+| 🛠 Maintainer| 2  | [Maintainer JSON](https://ipfs.io/ipfs/bafkreia7qhvpw6gi57wgx5mq4prpf4gcckp5447dyote3qx6loabx75yv4/2.json) | ✅ Verified    |
+| 🗳 Voter     | 3  | [Voter JSON](https://ipfs.io/ipfs/bafkreia7qhvpw6gi57wgx5mq4prpf4gcckp5447dyote3qx6loabx75yv4/3.json) | ⏳ Pending     |
+| 📈 Trader    | 4  | [Trader JSON](https://ipfs.io/ipfs/bafkreia7qhvpw6gi57wgx5mq4prpf4gcckp5447dyote3qx6loabx75yv4/4.json) | ✅ Verified    |
 
 
