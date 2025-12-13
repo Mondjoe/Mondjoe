@@ -113,3 +113,76 @@ Every contributor follows the same badge system and workflows, ensuring clarity,
 - Record proof in capsule ledger with badge status  
 - Submit PR for Maintainer review  
 - Capsule remains unified, transparent, and proof‑driven  
+## 🔄 ASCII Capsule Cycle with Badge Status
+  ┌───────────────┐
+  │   TRON   ✅   │
+  └───────┬───────┘
+          │
+  ┌───────▼───────┐
+  │   ETH    ✅   │
+  └───────┬───────┘
+          │
+  ┌───────▼───────┐
+  │   OKX    ⏳   │
+  └───────┬───────┘
+          │
+  ┌───────▼──────────┐
+  │   PiggyDAO   ⏳   │
+  └───────┬──────────┘
+          │
+  ┌───────▼──────────┐
+  │   Turtle.xyz ✅   │
+  └───────┬──────────┘
+          │
+  ┌───────▼──────────┐
+  │  TradeGenius ✅   │
+  └───────┬──────────┘
+          │
+  ┌───────▼──────────┐
+  │ Mellow tqETH ⏳   │
+  └───────┬──────────┘
+          │
+  ┌───────▼───────┐
+  │   TON    ⏳   │
+  └───────┬───────┘
+          │
+  ┌───────▼──────────┐
+  │ Hyperliquid ❌    │
+  └──────────────────┘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```markdown
+### 🔑 Capsule Cycle Legend
+
+✅ Verified   → Explorer / exchange proof confirmed
+⏳ Pending    → Awaiting explorer confirmation, liquidity check, or proposal close
+❌ Invalid    → Spam / rejected anchor
+✅ Verified   → Explorer / exchange proof confirmed
+⏳ Pending    → Awaiting explorer confirmation, liquidity check, or proposal close
+❌ Invalid    → Spam / rejected anchor
+
+
