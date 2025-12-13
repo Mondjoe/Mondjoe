@@ -1,16 +1,27 @@
-## Hi there 👋
+████████╗ █████╗ ███╗   ███╗██╗     ██╗      █████╗ ███████╗████████╗
+╚══██╔══╝██╔══██╗████╗ ████║██║     ██║     ██╔══██╗██╔════╝╚══██╔══╝
+   ██║   ███████║██╔████╔██║██║     ██║     ███████║███████╗   ██║   
+   ██║   ██╔══██║██║╚██╔╝██║██║     ██║     ██╔══██║╚════██║   ██║   
+   ██║   ██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║███████║   ██║   
+   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   
 
-<!--
-**Mondjoe/Mondjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                 🌐 Validator Capsule — Proof Driven Sovereignty
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Quick Start (5‑Minute Onboarding)
+1. **Choose your role tier** → Auditor 🕵️, Maintainer 🛠, Voter 🗳, Trader 📈  
+2. **Open the right explorer** → TronScan, Solscan, TonScan, Etherscan, OKX, Snapshot, Turtle.xyz, TradeGenius  
+3. **Verify one anchor** → copy transaction hash, contract address, or proposal ID  
+4. **Record proof in ledger** → mark ⏳ Pending → ✅ Verified once confirmed  
+5. **Submit PR** → fork repo, commit changes, include explorer links, request Maintainer review  
+
+---
+
+## 📖 Overview
+This capsule unifies **multi‑chain anchors, governance records, DeFi yield opportunities, and asset audits** into one transparent, proof‑driven dashboard.  
+Every contributor follows the same badge system and workflows, ensuring clarity, trust, and sovereignty.
+
+---
+
+## 🏷️ Badge Legend
