@@ -1,12 +1,3 @@
-Charm_Capsule   
-Here is your fully merged, final, polished, CharmCapsulebrand README.  
-Everything is now in one complete file: Architecture, Install, Run, API Table, Swagger Spec, Env Vars, Troubleshooting, Branding.
-
-This is GitHubready, mobilefriendly, and professional.  
-Paste it directly into your repo:
-
-Mondjoe/CharmCapsule  README.md
-
 ---
 
  CharmCapsule Backend  Full Merged README
