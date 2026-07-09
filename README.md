@@ -1,5 +1,4 @@
 github.com/Mondjoe/Mondjoe
-Mondjoe
 <p align="center">
   <img src="https://i.imgur.com/9Z3Hh7F.gif" alt="CharmCapsule Banner" width="100%" />
 </p>
